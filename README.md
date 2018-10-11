@@ -1,0 +1,2 @@
+# cocodata_yolo_train
+coco2017数据集官方json标签文件转yolo训练的txt标签文件
